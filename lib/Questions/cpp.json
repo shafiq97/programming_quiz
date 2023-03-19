@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "What is C++?",
+      "choices": [
+        "A programming language",
+        "A markup language",
+        "A scripting language",
+        "A database language"
+      ],
+      "answer": "A programming language"
+    },
+    {
+      "question": "What is a variable in C++?",
+      "choices": [
+        "A keyword",
+        "A function",
+        "A container for storing data",
+        "A loop construct"
+      ],
+      "answer": "A container for storing data"
+    },
+    {
+      "question": "What is the purpose of the 'cout' statement in C++?",
+      "choices": [
+        "To output text to the console",
+        "To input text from the console",
+        "To create a loop",
+        "To declare a variable"
+      ],
+      "answer": "To output text to the console"
+    },
+    {
+      "question": "What is the difference between '++i' and 'i++' in C++?",
+      "choices": [
+        "'++i' increments the value of i and returns the new value, while 'i++' returns the current value of i and then increments it",
+        "'++i' decrements the value of i and returns the new value, while 'i++' returns the current value of i and then decrements it",
+        "'++i' and 'i++' are equivalent",
+        "There is no such thing as '++i' or 'i++' in C++"
+      ],
+      "answer": "'++i' increments the value of i and returns the new value, while 'i++' returns the current value of i and then increments it"
+    },
+    {
+      "question": "What is a function in C++?",
+      "choices": [
+        "A variable",
+        "A loop construct",
+        "A container for storing data",
+        "A block of code that performs a specific task"
+      ],
+      "answer": "A block of code that performs a specific task"
+    },
+    {
+      "question": "What is the purpose of the 'if' statement in C++?",
+      "choices": [
+        "To create a loop",
+        "To declare a variable",
+        "To perform a conditional test",
+        "To output text to the console"
+      ],
+      "answer": "To perform a conditional test"
+    },
+    {
+      "question": "What is the purpose of the 'while' loop in C++?",
+      "choices": [
+        "To perform a block of code a specific number of times",
+        "To perform a block of code as long as a condition is true",
+        "To perform a block of code once",
+        "To perform a block of code until a condition is true"
+      ],
+      "answer": "To perform a block of code as long as a condition is true"
+    },
+    {
+      "question": "What is a class in C++?",
+      "choices": [
+        "A container for storing data",
+        "A block of code that performs a specific task",
+        "A keyword",
+        "A blueprint for creating objects"
+      ],
+      "answer": "A blueprint for creating objects"
+    },
+    {
+      "question": "What is inheritance in C++?",
+      "choices": [
+        "The process of creating a new class from an existing class",
+        "The process of creating a new object from an existing object",
+        "The process of creating a new function from an existing function",
+        "The process of creating a new variable from an existing variable"
+      ],
+      "answer": "The process of creating a new class from an existing class"
+    },
+    {
+      "question": "What is polymorphism in C++?",
+      "choices": [
+        "The ability of a class to have multiple functions with the same name",
+        "The ability of a class to have multiple variables with the same name",
+        "The ability of a class to have multiple constructors",
+        "The ability of a class to have multiple destructors"
+      ],
+      "answer": "The ability of a class to have multiple functions with the same name"
+    }
+  ]
+}
